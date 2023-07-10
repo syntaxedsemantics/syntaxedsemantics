@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syntaxedsemantics
-- 👀 I’m interested in Information Security, specifically secure embedded system design & vulnerability analysis
+- 👀 I’m interested in Information Systems Security and Natural Language Processing.
 - I’m looking to collaborate!
 
 <!---
